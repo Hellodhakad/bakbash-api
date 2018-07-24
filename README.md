@@ -12,3 +12,6 @@ sendOtp.send(917877383873, "PRIIND", function (error, data) {
     console.log(data);
   });
 
+
+
+<b>npm install vakbase-api</b>
