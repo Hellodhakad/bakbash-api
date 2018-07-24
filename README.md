@@ -14,4 +14,4 @@ sendOtp.send(917877383873, "PRIIND", function (error, data) {
 
 
 
-<b>npm install vakbase-api</b>
+<b>npm install bakbash-api</b>
