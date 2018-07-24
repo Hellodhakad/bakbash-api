@@ -20,6 +20,10 @@
   "author": "Devendra Dhakad",
   "license": "ISC",
   "dependencies": {
-    "dhakadapi": "^1.0.0"
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "msg91": "0.0.6",
+    "nodemailer": "^4.6.7",
+    "sendotp": "^1.2.9"
   }
 }
