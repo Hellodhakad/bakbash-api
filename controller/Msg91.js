@@ -1,0 +1,1 @@
+const SendOtp = require('sendotp');
